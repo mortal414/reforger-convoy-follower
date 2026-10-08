@@ -1,0 +1,9 @@
+MetaFileClass {
+ Name "{2C99019F8C868626}Worlds/EveronFilmStart.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

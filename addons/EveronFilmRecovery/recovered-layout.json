@@ -1,0 +1,365 @@
+{
+  "addonGuid": "BD74FC094F539BDC",
+  "worldGuid": "2C99019F8C868626",
+  "missionGuid": "2BC57392EBE3D413",
+  "sourceLog": "D:/ReforgerAgentRuns/everon-nato-film-20261008/logs/console.log",
+  "entities": [
+    {
+      "name": "Film_Entity_01",
+      "time": "10:36:30.773",
+      "prefabName": "M2A3_BUSK_OD.et",
+      "coords": [
+        9129.73,
+        69.1513,
+        2167.71
+      ],
+      "resource": "Prefabs/Vehicles/Tracked/M2A2/M2A3/M2A3_BUSK_OD.et",
+      "entityClass": "Tank",
+      "resourceGuid": "B15B8D3E31D43639"
+    },
+    {
+      "name": "Film_Entity_02",
+      "time": "10:36:38.448",
+      "prefabName": "Stryker_MGS.et",
+      "coords": [
+        9135.42,
+        68.4229,
+        2148.53
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/Stryker/M1128/Stryker_MGS.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "A6783FAA5D516D68"
+    },
+    {
+      "name": "Film_Entity_03",
+      "time": "10:36:44.171",
+      "prefabName": "Stryker_APC.et",
+      "coords": [
+        9146.53,
+        67.3919,
+        2121.87
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/Stryker/M1126/Stryker_APC.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "249A75FB99B24A57"
+    },
+    {
+      "name": "Film_Entity_04",
+      "time": "10:37:00.118",
+      "prefabName": "M923A1_tanker.et",
+      "coords": [
+        9163.78,
+        66.157,
+        2107.7
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "2BE1F8B9299B67C1"
+    },
+    {
+      "name": "Film_Entity_05",
+      "time": "10:37:06.320",
+      "prefabName": "M923A1_command_MERDC.et",
+      "coords": [
+        9197.44,
+        63.8279,
+        2092.17
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_MERDC.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "38186F12F27A61C6"
+    },
+    {
+      "name": "Film_Entity_06",
+      "time": "10:37:08.707",
+      "prefabName": "Character_US_Rifleman.et",
+      "coords": [
+        9196.44,
+        65.6431,
+        2091.95
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "26A9756790131354"
+    },
+    {
+      "name": "Film_Entity_07",
+      "time": "10:37:10.041",
+      "prefabName": "Character_US_Rifleman.et",
+      "coords": [
+        9162.72,
+        67.9411,
+        2107.58
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "26A9756790131354"
+    },
+    {
+      "name": "Film_Entity_08",
+      "time": "10:37:11.150",
+      "prefabName": "Character_US_Sniper.et",
+      "coords": [
+        9144.96,
+        68.4616,
+        2123.08
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "0F6689B491641155"
+    },
+    {
+      "name": "Film_Entity_09",
+      "time": "10:37:14.641",
+      "prefabName": "Character_US_Medic.et",
+      "coords": [
+        9134.42,
+        69.4648,
+        2150.26
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "C9E4FEAF5AAC8D8C"
+    },
+    {
+      "name": "Film_Entity_10",
+      "time": "10:37:15.857",
+      "prefabName": "Character_US_Rifleman.et",
+      "coords": [
+        9149.6,
+        67.2523,
+        2120.98
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "26A9756790131354"
+    },
+    {
+      "name": "Film_Entity_11",
+      "time": "10:37:17.473",
+      "prefabName": "Character_US_Sniper.et",
+      "coords": [
+        9147.4,
+        68.6058,
+        2121.71
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "0F6689B491641155"
+    },
+    {
+      "name": "Film_Entity_12",
+      "time": "10:37:18.940",
+      "prefabName": "Character_US_Rifleman_Variant_1.et",
+      "coords": [
+        9136.06,
+        69.3675,
+        2147.73
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "EA158B6EB6A24B4B"
+    },
+    {
+      "name": "Film_Entity_13",
+      "time": "10:37:20.075",
+      "prefabName": "Character_US_Rifleman.et",
+      "coords": [
+        9128.65,
+        70.4396,
+        2169.18
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "26A9756790131354"
+    },
+    {
+      "name": "Film_Entity_14",
+      "time": "10:37:21.023",
+      "prefabName": "Character_US_Medic.et",
+      "coords": [
+        9127.4,
+        69.2866,
+        2170.58
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "C9E4FEAF5AAC8D8C"
+    },
+    {
+      "name": "Film_Entity_15",
+      "time": "10:37:32.740",
+      "prefabName": "M151A2_M2HB.et",
+      "coords": [
+        9098.67,
+        76.4816,
+        2276.47
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "F6B23D17D5067C11"
+    },
+    {
+      "name": "Film_Entity_16",
+      "time": "10:37:39.506",
+      "prefabName": "Character_US_Rifleman.et",
+      "coords": [
+        9098.46,
+        77.3386,
+        2275.99
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "26A9756790131354"
+    },
+    {
+      "name": "Film_Entity_17",
+      "time": "10:37:40.608",
+      "prefabName": "Character_US_Rifleman_Variant_1.et",
+      "coords": [
+        9097.85,
+        76.5285,
+        2276.59
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "EA158B6EB6A24B4B"
+    },
+    {
+      "name": "Film_Entity_18",
+      "time": "10:37:41.958",
+      "prefabName": "Character_US_Rifleman_Variant_1.et",
+      "coords": [
+        9098.39,
+        76.3722,
+        2275.1
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "EA158B6EB6A24B4B"
+    },
+    {
+      "name": "Film_Entity_19",
+      "time": "10:38:01.819",
+      "prefabName": "M151A2_M2HB.et",
+      "coords": [
+        9101.8,
+        75.7437,
+        2268.9
+      ],
+      "resource": "Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et",
+      "entityClass": "Vehicle",
+      "resourceGuid": "F6B23D17D5067C11"
+    },
+    {
+      "name": "Film_Entity_20",
+      "time": "10:38:03.655",
+      "prefabName": "Character_US_Rifleman_Variant_1.et",
+      "coords": [
+        9101.52,
+        76.5981,
+        2268.45
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "EA158B6EB6A24B4B"
+    },
+    {
+      "name": "Film_Entity_21",
+      "time": "10:38:04.809",
+      "prefabName": "Character_US_GL.et",
+      "coords": [
+        9098.49,
+        75.475,
+        2264.48
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "84029128FA6F6BB9"
+    },
+    {
+      "name": "Film_Entity_22",
+      "time": "10:38:05.721",
+      "prefabName": "Character_US_Rifleman_Variant_1.et",
+      "coords": [
+        9102.42,
+        75.2623,
+        2263.04
+      ],
+      "resource": "Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et",
+      "entityClass": "SCR_ChimeraCharacter",
+      "resourceGuid": "EA158B6EB6A24B4B"
+    },
+    {
+      "name": "Film_Entity_23",
+      "time": "10:38:15.715",
+      "prefabName": "E_AIWaypoint_Move.et",
+      "coords": [
+        7476.85,
+        138.499,
+        4714.64
+      ],
+      "resource": "PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et",
+      "entityClass": "SCR_AIWaypoint",
+      "resourceGuid": "FFF9518F73279473"
+    },
+    {
+      "name": "Film_Entity_24",
+      "time": "10:38:30.699",
+      "prefabName": "E_AIWaypoint_Move.et",
+      "coords": [
+        7489.54,
+        139.175,
+        4707.7
+      ],
+      "resource": "PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et",
+      "entityClass": "SCR_AIWaypoint",
+      "resourceGuid": "FFF9518F73279473"
+    },
+    {
+      "name": "Film_Entity_25",
+      "time": "10:39:03.549",
+      "prefabName": "E_AIWaypoint_Move.et",
+      "coords": [
+        7577.67,
+        154.031,
+        4601.3
+      ],
+      "resource": "PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et",
+      "entityClass": "SCR_AIWaypoint",
+      "resourceGuid": "FFF9518F73279473"
+    },
+    {
+      "name": "Film_Entity_26",
+      "time": "10:39:12.349",
+      "prefabName": "E_AIWaypoint_Move.et",
+      "coords": [
+        7581.22,
+        155.482,
+        4592.36
+      ],
+      "resource": "PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et",
+      "entityClass": "SCR_AIWaypoint",
+      "resourceGuid": "FFF9518F73279473"
+    },
+    {
+      "name": "Film_Entity_27",
+      "time": "10:39:38.633",
+      "prefabName": "E_AIWaypoint_Move.et",
+      "coords": [
+        7604.33,
+        162.798,
+        4546.55
+      ],
+      "resource": "PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et",
+      "entityClass": "SCR_AIWaypoint",
+      "resourceGuid": "FFF9518F73279473"
+    }
+  ],
+  "limitations": [
+    "Recorded spawn positions, not a live scene export.",
+    "Rotations and subsequent adjustments are not logged.",
+    "Crew seats, groups and waypoint assignments are not reproduced.",
+    "Move markers are preserved at recorded positions; attach orders to actual AI groups before running."
+  ]
+}

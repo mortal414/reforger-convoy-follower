@@ -1,0 +1,11 @@
+GameProject {
+ ID "EveronFilmRecovery"
+ GUID "BD74FC094F539BDC"
+ TITLE "Everon NATO Film Start Recovery"
+ Dependencies {
+  "58D0FB3206B6F859"
+  "63120AE07E6C0966"
+  "5B02128D896F7DE8"
+  "5D1880C4AD410C14"
+ }
+}

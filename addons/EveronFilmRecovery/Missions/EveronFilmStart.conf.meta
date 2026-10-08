@@ -1,0 +1,9 @@
+MetaFileClass {
+ Name "{2BC57392EBE3D413}Missions/EveronFilmStart.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

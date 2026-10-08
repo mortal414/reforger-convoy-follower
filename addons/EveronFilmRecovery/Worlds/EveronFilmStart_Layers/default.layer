@@ -1,0 +1,87 @@
+GenericEntity Film_RecoveryCheckpoint {
+ components {
+  EFR_StartCheckpointComponent {
+  }
+ }
+}
+Tank Film_Entity_01 : "{B15B8D3E31D43639}Prefabs/Vehicles/Tracked/M2A2/M2A3/M2A3_BUSK_OD.et" {
+ coords 9129.73 69.1513 2167.71
+}
+Vehicle Film_Entity_02 : "{A6783FAA5D516D68}Prefabs/Vehicles/Wheeled/Stryker/M1128/Stryker_MGS.et" {
+ coords 9135.42 68.4229 2148.53
+}
+Vehicle Film_Entity_03 : "{249A75FB99B24A57}Prefabs/Vehicles/Wheeled/Stryker/M1126/Stryker_APC.et" {
+ coords 9146.53 67.3919 2121.87
+}
+Vehicle Film_Entity_04 : "{2BE1F8B9299B67C1}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker.et" {
+ coords 9163.78 66.157 2107.7
+}
+Vehicle Film_Entity_05 : "{38186F12F27A61C6}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_MERDC.et" {
+ coords 9197.44 63.8279 2092.17
+}
+SCR_ChimeraCharacter Film_Entity_06 : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ coords 9196.44 65.6431 2091.95
+}
+SCR_ChimeraCharacter Film_Entity_07 : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ coords 9162.72 67.9411 2107.58
+}
+SCR_ChimeraCharacter Film_Entity_08 : "{0F6689B491641155}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper.et" {
+ coords 9144.96 68.4616 2123.08
+}
+SCR_ChimeraCharacter Film_Entity_09 : "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et" {
+ coords 9134.42 69.4648 2150.26
+}
+SCR_ChimeraCharacter Film_Entity_10 : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ coords 9149.6 67.2523 2120.98
+}
+SCR_ChimeraCharacter Film_Entity_11 : "{0F6689B491641155}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Sniper.et" {
+ coords 9147.4 68.6058 2121.71
+}
+SCR_ChimeraCharacter Film_Entity_12 : "{EA158B6EB6A24B4B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et" {
+ coords 9136.06 69.3675 2147.73
+}
+SCR_ChimeraCharacter Film_Entity_13 : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ coords 9128.65 70.4396 2169.18
+}
+SCR_ChimeraCharacter Film_Entity_14 : "{C9E4FEAF5AAC8D8C}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Medic.et" {
+ coords 9127.4 69.2866 2170.58
+}
+Vehicle Film_Entity_15 : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
+ coords 9098.67 76.4816 2276.47
+}
+SCR_ChimeraCharacter Film_Entity_16 : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ coords 9098.46 77.3386 2275.99
+}
+SCR_ChimeraCharacter Film_Entity_17 : "{EA158B6EB6A24B4B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et" {
+ coords 9097.85 76.5285 2276.59
+}
+SCR_ChimeraCharacter Film_Entity_18 : "{EA158B6EB6A24B4B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et" {
+ coords 9098.39 76.3722 2275.1
+}
+Vehicle Film_Entity_19 : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
+ coords 9101.8 75.7437 2268.9
+}
+SCR_ChimeraCharacter Film_Entity_20 : "{EA158B6EB6A24B4B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et" {
+ coords 9101.52 76.5981 2268.45
+}
+SCR_ChimeraCharacter Film_Entity_21 : "{84029128FA6F6BB9}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_GL.et" {
+ coords 9098.49 75.475 2264.48
+}
+SCR_ChimeraCharacter Film_Entity_22 : "{EA158B6EB6A24B4B}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman_Variant_1.et" {
+ coords 9102.42 75.2623 2263.04
+}
+SCR_AIWaypoint Film_Entity_23 : "{FFF9518F73279473}PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et" {
+ coords 7476.85 138.499 4714.64
+}
+SCR_AIWaypoint Film_Entity_24 : "{FFF9518F73279473}PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et" {
+ coords 7489.54 139.175 4707.7
+}
+SCR_AIWaypoint Film_Entity_25 : "{FFF9518F73279473}PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et" {
+ coords 7577.67 154.031 4601.3
+}
+SCR_AIWaypoint Film_Entity_26 : "{FFF9518F73279473}PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et" {
+ coords 7581.22 155.482 4592.36
+}
+SCR_AIWaypoint Film_Entity_27 : "{FFF9518F73279473}PrefabsEditable/Auto/AI/Waypoints/E_AIWaypoint_Move.et" {
+ coords 7604.33 162.798 4546.55
+}
