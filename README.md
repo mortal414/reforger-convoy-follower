@@ -1,10 +1,12 @@
-# Reforger local test workspace
+# Reforger Convoy Follower
 
-Local tools and notes for repeatable Arma Reforger mod research, scenario tests, and addon validation. The older MCP helper remains available for inspecting local files and documentation.
+A hobby experiment in convoy-following AI for Arma Reforger, with local tools and test notes.
 
-## Current focus
+I keep this repository as an unfinished project snapshot. It is not a finished or supported Workshop release. The separate [Reforger Agent Harness](https://github.com/mortal414/reforger-agent-harness) contains the more general tooling; this repository retains the older harness alongside the addon.
 
-This repository contains the Reforger test harness and the [Convoy Follower addon](addons/ConvoyFollower/README.md). The harness supports a Workbench-first loop: open a prepared Arland or Everon scene, validate and pack the addon, launch a local world, and inspect logs. An autonomous one-, two-, and three-truck gameplay test and video capture loop is under development; it is not yet evidence of reliable driving. Start with the [map-maker quickstart](docs/convoy-mapmaker-quickstart.md) for the addon, the [automated smoke test](docs/convoy-automated-smoke.md) for the test matrix, or the [harness handoff](docs/harness-handoff.md) for the tooling. The [operations playbook](docs/operations-playbook.md) records observed UI behavior.
+## Project state
+
+This repository contains the Reforger test harness and the [Convoy Follower addon](addons/ConvoyFollower/README.md). The harness supports a Workbench-first loop: open a prepared Arland or Everon scene, validate and pack the addon, launch a local world, and inspect logs. The autonomous one-, two-, and three-truck gameplay test and video capture loop remains incomplete; it is not evidence of reliable driving. Start with the [map-maker quickstart](docs/convoy-mapmaker-quickstart.md) for the addon, the [automated smoke test](docs/convoy-automated-smoke.md) for the test matrix, or the [harness handoff](docs/harness-handoff.md) for the tooling. The [operations playbook](docs/operations-playbook.md) records observed UI behavior.
 
 ## What is in this repo
 
